@@ -4,7 +4,7 @@ variable "counts" {
 
 variable "key_name" {
   description = "Private key name to use with instance"
-  default     = "terraform"
+  default     = "sharique"
 }
 
 variable "instance_type" {
